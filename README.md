@@ -4,9 +4,9 @@ Python Essential Course Material
 --------------------------------
 
 # Scripts
-	##|-src
+	## src
 		sctipts python (modules)
-	##|-Packages
+	## Packages
 		###|-Calculator
 			python package with Divide.py
 		###|-Many
