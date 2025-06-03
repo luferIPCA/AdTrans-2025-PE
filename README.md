@@ -3,7 +3,7 @@
 Python Essential Course Material
 --------------------------------
 
-#|-Scripts
+# Scripts
 	##|-src
 		sctipts python (modules)
 	##|-Packages
