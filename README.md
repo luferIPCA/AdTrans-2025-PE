@@ -5,12 +5,12 @@
 
 ---
 
-## 📁 Scripts
+## **Scripts**
 
 ### `src/`  
 Python modules and scripts.
 
-### 📦 Packages
+### **Packages**
 
 #### `Calculator/`  
 - `Divide.py` — Module for basic division operations.
@@ -19,37 +19,38 @@ Python modules and scripts.
 - `Divide.py` — Division module.  
 - `Animals.py` — Defines the `Animal` class.
 
-### 📄 Documentation
+### **Documentation**
 
 #### `docs/html/`  
 - `index.html` — Auto-generated documentation using **Doxygen**.
 
 ---
 
-## 🧪 Practice  
+## **Practice**  
 Practical laboratory exercises for hands-on Python learning.
 
 ---
 
-## 📓 Colab Notebooks  
+## **Colab Notebooks**  
 Google Colab-based interactive notebooks.
 
 ---
 
-## 🐍 Python Notebooks  
+## **Python Notebooks**  
 Local Python equivalents of the Colab notebooks.
 
 ---
 
-## 📚 Auxiliary Material  
+## **Auxiliary Material**  
 Additional supporting documentation and reference materials.
 
 ---
 
-## 📑 Slides  
+## **Slides**  
 Presentation slides to accompany the course content.
 
 ---
 
 > For educational use only.  
 > Created by **lufer**, June 2025.
+
