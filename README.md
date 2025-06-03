@@ -50,7 +50,6 @@ Additional supporting documentation and reference materials.
 Presentation slides to accompany the course content.
 
 ---
-
-> For educational use only.  
+ 
 > Created by **lufer**, June 2025.
 
